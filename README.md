@@ -17,6 +17,3 @@ This project consists of a home page and a detailed recipe page. It was created 
 1. Open `index.html` to see the recipe preview.
 2. Click **"View Full Recipe"** to navigate to the detailed instructions in `Recipe.html`.
 3. Use the **"Back to Home"** link to return to the main page.
-
-## 🔗 Live Demo
-[Insert your GitHub Pages link here once you turn it on!]
